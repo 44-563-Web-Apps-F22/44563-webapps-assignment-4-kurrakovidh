@@ -48,3 +48,14 @@
     font-style: italic;
     color: blue;
 }
+table, th, td{
+    border: 1.4px solid green;
+    border-collapse: collapse;
+    text-align: center;
+    color: blueviolet;
+
+}
+tr:nth-child(even){
+    background-color:aquamarine;
+    margin-left: auto;
+}
