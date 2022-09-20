@@ -4,8 +4,9 @@
 }
 
 .song{
-    color:black;
+    color: blueviolet;
     font-size: medium;
+    font-style: initial;
 }
 
 .direction{
@@ -24,26 +25,26 @@
 .ALL{
     font-style: italic;
     font-size: medium;
-    color: aliceblue;
+    color: blue;
 
 }
 .FRE{
     font-size: medium;
     font-style: italic;
-    color: aliceblue;
+    color: blue;
 }
 .KIN{
     font-size: medium;
     font-style: italic;
-    color: aliceblue;
+    color: blue;
 }
 .SAM{
     font-size: medium;
     font-style: italic;
-    color: aliceblue;
+    color: blue;
 }
 .RUT{
     font-size: medium;
     font-style: italic;
-    color: aliceblue;
+    color: blue;
 }
