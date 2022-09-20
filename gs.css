@@ -1,0 +1,49 @@
+.speech{
+    color: black;
+    font-size: medium;
+}
+
+.song{
+    color:black;
+    font-size: medium;
+}
+
+.direction{
+    color: black;
+    background-color: bisque;
+    font-size: medium;
+}
+.direction:hover{
+    background-color: blanchedalmond;
+    color: blue;
+}
+.name{
+    color: black;
+    font-size: medium;
+}
+.ALL{
+    font-style: italic;
+    font-size: medium;
+    color: aliceblue;
+
+}
+.FRE{
+    font-size: medium;
+    font-style: italic;
+    color: aliceblue;
+}
+.KIN{
+    font-size: medium;
+    font-style: italic;
+    color: aliceblue;
+}
+.SAM{
+    font-size: medium;
+    font-style: italic;
+    color: aliceblue;
+}
+.RUT{
+    font-size: medium;
+    font-style: italic;
+    color: aliceblue;
+}
