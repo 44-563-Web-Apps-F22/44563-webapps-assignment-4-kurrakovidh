@@ -80,3 +80,27 @@ tr:nth-child(even){
     filter: blur(2px);
     border: solid 2px;
 }
+.navigationbar-horizontal {
+  
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    color:aliceblue;
+}
+
+ul.navigationbar-horizontal li {
+    float:left; 
+    color:beige;
+    background-color:blueviolet;
+}
+    
+.navigationbar-horizontal a {
+    display:block;
+    padding: 10px;
+    color: aqua;
+}
+
+.navigationbar-horizontal a:hover {  
+    background-color:cyan;
+    color:white;
+}
